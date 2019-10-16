@@ -1,0 +1,21 @@
+{
+    "name": "hugo/entrainement_composer",
+    "description": "Training composer",
+    "authors": [
+        {
+            "name": "Hugo Gehl",
+            "email": "gehlhugo@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0",
+        "twig/twig": "^2.12"
+    },
+    "autoload":
+    {
+        "psr-4":
+        {
+            "App\\Wcs\\": "src/Wcs/"
+        }
+    }
+}
