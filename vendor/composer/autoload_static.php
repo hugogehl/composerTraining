@@ -23,7 +23,7 @@ class ComposerStaticInita89109bac42c9a65b5cf6a114d61f697
         ),
         'A' => 
         array (
-            'App\\Wcs\\' => 8,
+            'App\\' => 4,
         ),
     );
 
@@ -40,7 +40,7 @@ class ComposerStaticInita89109bac42c9a65b5cf6a114d61f697
         array (
             0 => __DIR__ . '/..' . '/symfony/polyfill-ctype',
         ),
-        'App\\Wcs\\' => 
+        'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src/Wcs',
         ),
