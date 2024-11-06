@@ -9,7 +9,7 @@
     ],
     "require": {
         "ehime/hello-world": "^1.0",
-        "twig/twig": "^2.12"
+        "twig/twig": "^3.11"
     },
     "autoload":
     {
